@@ -1,4 +1,5 @@
 - 👋 Hi, Soy @JARIA28
+- Mi perfil personal es @AriasAenima
 - 👀 Soy Practicante Universitario
 <!---
 JARIA28/JARIA28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
